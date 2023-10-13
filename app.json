@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "weatherApp",
+    "slug": "weatherApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/partlycloudy.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8e752e2d-732f-426a-8836-f707169e7164"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/8e752e2d-732f-426a-8836-f707169e7164"
+    }
+  }
+}
