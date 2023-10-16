@@ -1,4 +1,5 @@
-export const apiKey = 'b682d9be0237422f94950938231310';
+export const apiKey = 'api key goes here';
+//get api from https://weather.com/
 
 
 export const weatherImages = {
